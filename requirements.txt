@@ -1,0 +1,2 @@
+# Diuji dengan Python 3.12.3 dan Manim Community Edition 0.22.1
+manim>=0.19,<1.0

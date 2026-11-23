@@ -1,0 +1,6 @@
+renders/videos/
+renders/texts/
+renders/images/
+renders/*.mp4
+renders/concat_*.txt
+__pycache__/
